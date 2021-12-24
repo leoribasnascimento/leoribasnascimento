@@ -4,7 +4,7 @@
 - 🌱 Currently learning HTML5 and CSS3
 - 👯 I’m looking to collaborate on projects related to Web Development
 - 📫 Reach me at: leoribas.freelancer@gmail.com
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him/his
 
 <div align="center">
   <a href="https://leoribasnascimento.github.io/">
